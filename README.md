@@ -3,7 +3,7 @@ A local qrcode image parse for react-native, support for ios and android
 
 ## Installation
 ```sh
-npm install @remobile/react-native-qrcode-local-image --save
+yarn add react-native-qrcode-local-image-jerry
 ```
 ### Installation (iOS)
 * Drag RCTQRCodeLocalImage.xcodeproj to your project on Xcode.
