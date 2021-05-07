@@ -12,7 +12,6 @@ const QRCodeReader = {
    * @return {void}
    */
   decode: function(path, callback) {
-    console.log(NativeModules);
     QRCodeLocalImage.decode(path, callback);
   }
 };
