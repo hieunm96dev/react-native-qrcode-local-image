@@ -1,6 +1,7 @@
 Pod::Spec.new do |spec|
   spec.name         = 'react-native-qrcode-local-image'
-  spec.version      = '1.0.11'
+  spec.version      = '1.0.12'
+  spec.platforms    = { :ios => "11.0" }
   spec.license      = { :type => 'MIT' }
   spec.homepage     = 'https://github.com/452MJ/react-native-qrcode-local-image'
   spec.authors      = { 'Jerry' => 'jerryli720@qq.com' }
