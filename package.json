@@ -1,11 +1,11 @@
 {
-    "name": "react-native-qrcode-local-image-jerry",
-    "version": "1.0.12",
+    "name": "@hieunm96dev/react-native-qrcode-local-image",
+    "version": "1.0.13",
     "qrcode-local-imagecription": "A local qrcode image parse for react-native",
     "main": "index.js",
     "author": {
-        "name": "Jerry",
-        "email": "jerryli720@qq.com"
+        "name": "Hieu Manh",
+        "email": "hieunm96dev@qq.com"
     },
     "license": "MIT",
     "keywords": [
@@ -18,12 +18,12 @@
         "remobile",
         "mobile"
     ],
-    "homepage": "https://github.com/452MJ/react-native-qrcode-local-image",
+    "homepage": "https://github.com/hieunm96dev/react-native-qrcode-local-image",
     "bugs": {
-        "url": "https://github.com/452MJ/react-native-qrcode-local-image/issues"
+        "url": "https://github.com/hieunm96dev/react-native-qrcode-local-image/issues"
     },
     "repository": {
         "type": "git",
-        "url": "git://github.com/452MJ/react-native-qrcode-local-image.git"
+        "url": "git://github.com/hieunm96dev/react-native-qrcode-local-image.git"
     }
 }
