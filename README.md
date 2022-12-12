@@ -14,7 +14,7 @@ yarn add @hieunm96dev/react-native-qrcode-local-image
 ```gradle
 ...
 include ':react-native-qrcode-local-image'
-project(':react-native-qrcode-local-image').projectDir = new File(settingsDir, '../node_modules/@remobile/react-native-qrcode-local-image/android')
+project(':react-native-qrcode-local-image').projectDir = new File(settingsDir, '../node_modules/@hieunm96dev/react-native-qrcode-local-image/android')
 ```
 
 * In `android/app/build.gradle`
